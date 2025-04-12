@@ -1,0 +1,60 @@
+com.example.appaula.app-material-icons-core-release-0 C:\Users\Admin\.gradle\caches\8.10.2\transforms\048eb025301e77e9b23b07df010b2d75\transformed\material-icons-core-release\res
+com.example.appaula.app-navigation-runtime-ktx-2.8.9-1 C:\Users\Admin\.gradle\caches\8.10.2\transforms\062ac1916fbc9cccfb658d10af1b0b54\transformed\navigation-runtime-ktx-2.8.9\res
+com.example.appaula.app-material-ripple-release-2 C:\Users\Admin\.gradle\caches\8.10.2\transforms\0665db967a0ee67ea4fc68cd8c14a70f\transformed\material-ripple-release\res
+com.example.appaula.app-room-runtime-2.6.1-3 C:\Users\Admin\.gradle\caches\8.10.2\transforms\0b413ce292ca4b41884d3a1321355b88\transformed\room-runtime-2.6.1\res
+com.example.appaula.app-core-runtime-2.2.0-4 C:\Users\Admin\.gradle\caches\8.10.2\transforms\0c145448620b2c5885251791c96469c2\transformed\core-runtime-2.2.0\res
+com.example.appaula.app-customview-poolingcontainer-1.0.0-5 C:\Users\Admin\.gradle\caches\8.10.2\transforms\0c3e874d9eca68c04cc01b28c1fc11f5\transformed\customview-poolingcontainer-1.0.0\res
+com.example.appaula.app-sqlite-framework-2.4.0-6 C:\Users\Admin\.gradle\caches\8.10.2\transforms\0e025fa031213b8ac81ee4b29f270830\transformed\sqlite-framework-2.4.0\res
+com.example.appaula.app-lifecycle-viewmodel-ktx-2.8.7-7 C:\Users\Admin\.gradle\caches\8.10.2\transforms\19410b271a59c7b959859968692c2146\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.example.appaula.app-foundation-release-8 C:\Users\Admin\.gradle\caches\8.10.2\transforms\2845ce4cf5c2fd05b786bb07141c4bdd\transformed\foundation-release\res
+com.example.appaula.app-activity-compose-1.9.3-9 C:\Users\Admin\.gradle\caches\8.10.2\transforms\2a2d53b25c32c357f50e4aff6b7eddd9\transformed\activity-compose-1.9.3\res
+com.example.appaula.app-lifecycle-process-2.8.7-10 C:\Users\Admin\.gradle\caches\8.10.2\transforms\2a66743d306ec8ea01ddbcaecfe1cbd6\transformed\lifecycle-process-2.8.7\res
+com.example.appaula.app-tracing-1.2.0-11 C:\Users\Admin\.gradle\caches\8.10.2\transforms\2afbd5d85e1a804a7beb832d1364686e\transformed\tracing-1.2.0\res
+com.example.appaula.app-runtime-saveable-release-12 C:\Users\Admin\.gradle\caches\8.10.2\transforms\386c44f8a653248e46a24147c7004f2a\transformed\runtime-saveable-release\res
+com.example.appaula.app-navigation-common-ktx-2.8.9-13 C:\Users\Admin\.gradle\caches\8.10.2\transforms\4733fe194ce927704c5fbdeb886a79c2\transformed\navigation-common-ktx-2.8.9\res
+com.example.appaula.app-savedstate-1.2.1-14 C:\Users\Admin\.gradle\caches\8.10.2\transforms\51352141d4bc8d2f268bd2fc92fd2fa0\transformed\savedstate-1.2.1\res
+com.example.appaula.app-navigation-runtime-2.8.9-15 C:\Users\Admin\.gradle\caches\8.10.2\transforms\55c577954807d10153d39bf261b24005\transformed\navigation-runtime-2.8.9\res
+com.example.appaula.app-ui-graphics-release-16 C:\Users\Admin\.gradle\caches\8.10.2\transforms\5964fb430ad1a19d685be641f6ccb6af\transformed\ui-graphics-release\res
+com.example.appaula.app-lifecycle-viewmodel-compose-release-17 C:\Users\Admin\.gradle\caches\8.10.2\transforms\5eb322f164f898a9afc83d304c7ad816\transformed\lifecycle-viewmodel-compose-release\res
+com.example.appaula.app-sqlite-2.4.0-18 C:\Users\Admin\.gradle\caches\8.10.2\transforms\69228679e094d858feabafb8829ed58b\transformed\sqlite-2.4.0\res
+com.example.appaula.app-foundation-layout-release-19 C:\Users\Admin\.gradle\caches\8.10.2\transforms\6a278f39606fd5befc93e0854d2b7ac3\transformed\foundation-layout-release\res
+com.example.appaula.app-core-1.15.0-20 C:\Users\Admin\.gradle\caches\8.10.2\transforms\7467a453ec739c7edd552b15a5853020\transformed\core-1.15.0\res
+com.example.appaula.app-navigation-common-2.8.9-21 C:\Users\Admin\.gradle\caches\8.10.2\transforms\75add566ac0f23c2a5a0675797b1b66b\transformed\navigation-common-2.8.9\res
+com.example.appaula.app-ui-tooling-preview-release-22 C:\Users\Admin\.gradle\caches\8.10.2\transforms\75c43d0907b83a59e0d70dd2a53d8df9\transformed\ui-tooling-preview-release\res
+com.example.appaula.app-ui-unit-release-23 C:\Users\Admin\.gradle\caches\8.10.2\transforms\7e35570202e0b7585f4af36c7d1c2d8c\transformed\ui-unit-release\res
+com.example.appaula.app-activity-ktx-1.9.3-24 C:\Users\Admin\.gradle\caches\8.10.2\transforms\7e9142e2107f333b0fd1b21337972237\transformed\activity-ktx-1.9.3\res
+com.example.appaula.app-lifecycle-runtime-compose-release-25 C:\Users\Admin\.gradle\caches\8.10.2\transforms\7eac7cb1b4f8057b861ba69bca0c3d28\transformed\lifecycle-runtime-compose-release\res
+com.example.appaula.app-annotation-experimental-1.4.1-26 C:\Users\Admin\.gradle\caches\8.10.2\transforms\84d700dfe91bb4a472833a0eeae5cbf2\transformed\annotation-experimental-1.4.1\res
+com.example.appaula.app-core-ktx-1.15.0-27 C:\Users\Admin\.gradle\caches\8.10.2\transforms\8bb8f93925ccecbf6d5f5c8585da6988\transformed\core-ktx-1.15.0\res
+com.example.appaula.app-ui-geometry-release-28 C:\Users\Admin\.gradle\caches\8.10.2\transforms\8bf5d30e6a1fbee5aa807abc71f7efb2\transformed\ui-geometry-release\res
+com.example.appaula.app-profileinstaller-1.3.1-29 C:\Users\Admin\.gradle\caches\8.10.2\transforms\9338252760011b955944ae17a77cd3cd\transformed\profileinstaller-1.3.1\res
+com.example.appaula.app-graphics-path-1.0.1-30 C:\Users\Admin\.gradle\caches\8.10.2\transforms\99f66d800c208cc0a119be44396d0467\transformed\graphics-path-1.0.1\res
+com.example.appaula.app-lifecycle-viewmodel-release-31 C:\Users\Admin\.gradle\caches\8.10.2\transforms\9ea15eb619a37254778e2add8b40efef\transformed\lifecycle-viewmodel-release\res
+com.example.appaula.app-emoji2-1.3.0-32 C:\Users\Admin\.gradle\caches\8.10.2\transforms\a1a13b97d9c8ba66ad6364369004b6a4\transformed\emoji2-1.3.0\res
+com.example.appaula.app-savedstate-ktx-1.2.1-33 C:\Users\Admin\.gradle\caches\8.10.2\transforms\a29151cad1bb49607317ea609c2d6b9c\transformed\savedstate-ktx-1.2.1\res
+com.example.appaula.app-ui-util-release-34 C:\Users\Admin\.gradle\caches\8.10.2\transforms\a3fda010411da5cb872c2038a4e7b8a1\transformed\ui-util-release\res
+com.example.appaula.app-activity-1.9.3-35 C:\Users\Admin\.gradle\caches\8.10.2\transforms\a4da00da150dbfcdab2a75705ab29832\transformed\activity-1.9.3\res
+com.example.appaula.app-ui-tooling-release-36 C:\Users\Admin\.gradle\caches\8.10.2\transforms\aa5cba326e2912dcc0dad671f3fca061\transformed\ui-tooling-release\res
+com.example.appaula.app-material3-release-37 C:\Users\Admin\.gradle\caches\8.10.2\transforms\beebea799efbfe63239ddf7cc7d924d5\transformed\material3-release\res
+com.example.appaula.app-ui-tooling-data-release-38 C:\Users\Admin\.gradle\caches\8.10.2\transforms\bf35ecaf273cf54edbde40011e884175\transformed\ui-tooling-data-release\res
+com.example.appaula.app-lifecycle-viewmodel-savedstate-2.8.7-39 C:\Users\Admin\.gradle\caches\8.10.2\transforms\c469687bd9b3c957fbe1e2fbe0c1d3f2\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.example.appaula.app-ui-release-40 C:\Users\Admin\.gradle\caches\8.10.2\transforms\c6ed859b46c49606778f449bad531b89\transformed\ui-release\res
+com.example.appaula.app-lifecycle-livedata-core-2.8.7-41 C:\Users\Admin\.gradle\caches\8.10.2\transforms\ccba9ffdbc9d26777e2de1232ec32cd1\transformed\lifecycle-livedata-core-2.8.7\res
+com.example.appaula.app-animation-core-release-42 C:\Users\Admin\.gradle\caches\8.10.2\transforms\cea34b902a0e8f22ab30eb9992d9197b\transformed\animation-core-release\res
+com.example.appaula.app-ui-test-manifest-1.7.2-43 C:\Users\Admin\.gradle\caches\8.10.2\transforms\cf6919eb5e521fb46129d0f2169c8f52\transformed\ui-test-manifest-1.7.2\res
+com.example.appaula.app-ui-text-release-44 C:\Users\Admin\.gradle\caches\8.10.2\transforms\d2068543cbb075aa1c12632400029a38\transformed\ui-text-release\res
+com.example.appaula.app-room-ktx-2.6.1-45 C:\Users\Admin\.gradle\caches\8.10.2\transforms\d51cf53c7be9f8d0c7b3e921db26c04e\transformed\room-ktx-2.6.1\res
+com.example.appaula.app-lifecycle-runtime-ktx-release-46 C:\Users\Admin\.gradle\caches\8.10.2\transforms\d5e7f9b0a60e3d346a2124529b7c09b2\transformed\lifecycle-runtime-ktx-release\res
+com.example.appaula.app-material-release-47 C:\Users\Admin\.gradle\caches\8.10.2\transforms\d7acbf54f6f832ecc542fdd909e50c96\transformed\material-release\res
+com.example.appaula.app-animation-release-48 C:\Users\Admin\.gradle\caches\8.10.2\transforms\ddfcf71b45e2ccf0306314111671b859\transformed\animation-release\res
+com.example.appaula.app-startup-runtime-1.1.1-49 C:\Users\Admin\.gradle\caches\8.10.2\transforms\de9cbd1093ea72417440ea340aaf5353\transformed\startup-runtime-1.1.1\res
+com.example.appaula.app-lifecycle-runtime-release-50 C:\Users\Admin\.gradle\caches\8.10.2\transforms\e96001642cae652508add2316fd3b10f\transformed\lifecycle-runtime-release\res
+com.example.appaula.app-runtime-release-51 C:\Users\Admin\.gradle\caches\8.10.2\transforms\f644f572abdc779922155036fad54b90\transformed\runtime-release\res
+com.example.appaula.app-navigation-compose-2.8.9-52 C:\Users\Admin\.gradle\caches\8.10.2\transforms\fa4c80f66c735fdcda02554a3d9891af\transformed\navigation-compose-2.8.9\res
+com.example.appaula.app-pngs-53 D:\3 Ano\PAM\1Bim\projeto_1\app\build\generated\res\pngs\debug
+com.example.appaula.app-resValues-54 D:\3 Ano\PAM\1Bim\projeto_1\app\build\generated\res\resValues\debug
+com.example.appaula.app-packageDebugResources-55 D:\3 Ano\PAM\1Bim\projeto_1\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.appaula.app-packageDebugResources-56 D:\3 Ano\PAM\1Bim\projeto_1\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.appaula.app-debug-57 D:\3 Ano\PAM\1Bim\projeto_1\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.appaula.app-debug-58 D:\3 Ano\PAM\1Bim\projeto_1\app\src\debug\res
+com.example.appaula.app-main-59 D:\3 Ano\PAM\1Bim\projeto_1\app\src\main\res
